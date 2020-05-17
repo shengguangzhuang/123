@@ -15,7 +15,7 @@ urlpatterns = [
     #     使用路由匹配请求地址，每匹配一个就执行对应的函数视图逻辑
     path('user/register', views.register),]
 # urlpatterns = [
-#
+#f
 #     #     使用路由匹配请求地址，每匹配一个就执行对应的函数视图逻辑
 #     # 在给类视图注册子路由时还需要将类视图转为函数视图
 #     path('user/register', views.RegisterView.as_view()),
